@@ -1,0 +1,22 @@
+
+X	java:S1255"<This block of commented-out lines of code should be removed.(Ô¿Ç³8â–ÔÖ˜.
+‰
+java:S1192Š"fDefine a constant instead of duplicating this literal "Ğ²Ğ²Ğ¾Ğ´Ğ¸Ñ‚ Ğ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ĞµĞ»ÑŒ" 3 times.(Œ­Ø„øÿÿÿÿ8â–ÔÖ˜.
+O
+java:S11354"2Complete the task associated to this TODO comment.(ŸŞˆş8â–ÔÖ˜.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÈŞ€Õ˜.
+T
+java:S1135"2Complete the task associated to this TODO comment.(‹¡Èäşÿÿÿÿ8ı ªÕ˜.
+n
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ú¡­,8â–ÔÖ˜.
+X	java:S1258"<This block of commented-out lines of code should be removed.(×°é÷8â–ÔÖ˜.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÈŞ€Õ˜.
+F
+java:S1604Æ"(Make this anonymous inner class a lambda(¼Â¸8â–ÔÖ˜.
+O
+java:S1128	"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû8ÈŞ€Õ˜.
+J
+java:S1604H"(Make this anonymous inner class a lambda(‹ìŠøÿÿÿÿ8â–ÔÖ˜.
+s	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁéŒúÿÿÿÿ8â–ÔÖ˜.

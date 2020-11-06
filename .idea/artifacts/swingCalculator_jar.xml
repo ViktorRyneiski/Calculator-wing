@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swingCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swingCalculator_jar</output-path>
+    <root id="archive" name="swingCalculator.jar">
+      <element id="module-output" name="swingCalculator" />
+    </root>
+  </artifact>
+</component>
